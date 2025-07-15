@@ -63,11 +63,4 @@
 - 🌐 Create responsive and attractive websites
 - 📂 Contribute to open-source and grow on GitHub
 
----
 
-
-### 🧭 Visitor Badge
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danuja-illeperuma" alt="visitor badge"/>
-</p>
