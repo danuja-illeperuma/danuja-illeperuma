@@ -1,66 +1,48 @@
-<h1 align="center">Hi 👋, I'm Danuja</h1>
-<h3 align="center">Undergraduate | BICT Student | University of Ruhuna</h3>
+### Hello World, I'm Danuja  👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passionate+about+Coding+and+Design;OOP+%7C+Java+%7C+Web+Development;Always+learning+new+things" alt="Typing SVG" />
-</p>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/danielpadua/danielpadua/main/boy-coding.gif" width="500" height="320" />
 
+
+## I'm a Developer, Creator, and Learner!!
+- ✍ You can find my projects here [GitHub Profile](https://github.com/danuja-illeperuma)
+- 🎓 I’m an undergraduate student at University of Ruhuna
+- 📚 Pursuing BICT Degree | Java Enthusiast
+- 📖 Currently learning Java, Web Design, OOP and GitHub
+- 🤝 I’m looking to collaborate on open source
+- 💬 Ask me about Java, Swing GUI, or GitHub
+
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/55416034e15982b56c15fddbfa9131bacc79f729/topics/java/java.png" />](#)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](#)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />](#)
+
+<br />
+<br />
 ---
 
-### 🧑‍💻 About Me
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-- 🎓 I’m an undergraduate student at **University of Ruhuna**
-- 💻 Pursuing a degree in **Bachelor of Information and Communication Technology (BICT)**
-- 🧠 Currently focusing on **Java, OOP, Web Design & GitHub**
-- 📬 Reach me at: **ictdanu@gmail.com**
+  <img align="left" alt="Danuja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danuja-illeperuma&show_icons=true&hide_border=true&theme=tokyonight" />
 
----
+</details>
 
-### ☕ My Java World
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="120" alt="Java Logo" />
-</p>
+<img align="left" alt="Danuja's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuja-illeperuma&layout=compact&theme=tokyonight" />
 
-<p align="center">
-  
-  I enjoy building desktop apps using <b>Java Swing</b>, exploring <b>Object-Oriented Programming (OOP)</b>, and solving real-world problems with clean, logical Java code.
-</p>
-
----
-
-### ⚙️ Skills & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,figma,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danuja-illeperuma&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danuja-illeperuma&theme=transparent&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danuja-illeperuma&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: [ictdanu@gmail.com](mailto:ictdanu@gmail.com)
-- 🌐 GitHub: [github.com/danuja-illeperuma](https://github.com/danuja-illeperuma)
-
----
-
-### 🚀 Projects & Goals
-
-- 💡 Build Java GUI applications using Swing
-- 🌐 Create responsive and attractive websites
-- 📂 Contribute to open-source and grow on GitHub
-
-
+</details>
