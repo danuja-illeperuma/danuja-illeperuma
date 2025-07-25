@@ -1,15 +1,14 @@
 ### Hello World, I'm Danuja 👋
 
-<img align="right" alt="Coding Boy GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" height="320" />
+<img align="right" alt="Coding Boy GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250" height="250"/>
 
-## I'm an Undergraduate, Developer, and Future Software Engineer!
+I'm an Undergraduate, Developer, and Future Software Engineer!
 - 🎓 Studying at **University of Ruhuna**, pursuing **BICT**
 - 💻 Passionate about **Java, OOP, and Web Design**
 - 🔭 I’m currently learning more about **Spring Boot** and **GitHub workflows**
 - 📫 Contact me at: **ictdanu@gmail.com**
 - 🌱 Always growing and building new things
 
----
 
 ### 🛠️ Languages and Tools
 
